@@ -15,6 +15,10 @@ A simple playstation store (FAKE) to buy playstation bits and bobs
 - patience
 
 
+## Live Demo
+
+click [here](https://play.mastersoftk.tech/#)
+
 ## Authors
 
 👤 **Author1**
